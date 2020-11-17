@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="215371b6-5c9b-4d2e-a14c-716186f1cf14" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="01180d97-60c8-4934-a242-368ec129478d" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven" />
+        <option name="mavenHome" value="C:\Users\Administrator.DESKTOP-P0K4DT5\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kDof0YYPzR3fqWTuQCjyJp8PCs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SBTools\src\main\java\com\springboot\tools\utils" />
+      <recent name="D:\SBTools\src\main\java\com\springboot\tools\handler" />
+      <recent name="D:\SBTools\src\main\java\com\springboot\tools\controller" />
+      <recent name="D:\SBTools\src\main\resources" />
+      <recent name="D:\SBTools\src\main\java\com\springboot\tools" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.springboot.tools.config" />
+      <recent name="com.springboot.tools.constant" />
+      <recent name="com.springboot.tools.service.impl" />
+      <recent name="com.springboot.tools.enums" />
+      <recent name="com.springboot.tools.utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SBTools\src\main\resources\generator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ToolsApplication">
+    <configuration name="SecurityUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.springboot.tools.utils.SecurityUtils" />
+      <module name="SBTools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springboot.tools.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToolsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SBTools" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboot.tools.ToolsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.SecurityUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="215371b6-5c9b-4d2e-a14c-716186f1cf14" name="默认的" comment="" />
+      <created>1605244624382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605244624382</updated>
+      <workItem from="1605244628253" duration="815000" />
+      <workItem from="1605245504073" duration="9940000" />
+      <workItem from="1605257189308" duration="835000" />
+      <workItem from="1605486311799" duration="5606000" />
+      <workItem from="1605493789734" duration="448000" />
+      <workItem from="1605495181016" duration="20583000" />
+      <workItem from="1605574499943" duration="930000" />
+      <workItem from="1605575448623" duration="531000" />
+    </task>
+    <task id="LOCAL-00001" summary="初始化">
+      <created>1605508366255</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605508366255</updated>
+    </task>
+    <task id="LOCAL-00002" summary="初始化">
+      <created>1605509764626</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605509764626</updated>
+    </task>
+    <task id="LOCAL-00003" summary="初始化">
+      <created>1605510063970</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605510063970</updated>
+    </task>
+    <task id="LOCAL-00004" summary="初始化">
+      <created>1605513751518</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605513751518</updated>
+    </task>
+    <task id="LOCAL-00005" summary="初始化">
+      <created>1605515912099</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605515912099</updated>
+    </task>
+    <task id="LOCAL-00006" summary="初始化">
+      <created>1605515991366</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605515991366</updated>
+    </task>
+    <task id="LOCAL-00007" summary="初始化">
+      <created>1605516022328</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605516022328</updated>
+    </task>
+    <task id="LOCAL-00008" summary="初始化">
+      <created>1605516707942</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605516707942</updated>
+    </task>
+    <task id="LOCAL-00009" summary="初始化">
+      <created>1605517089392</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605517089392</updated>
+    </task>
+    <task id="LOCAL-00010" summary="初始化">
+      <created>1605517307945</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605517307945</updated>
+    </task>
+    <task id="LOCAL-00011" summary="初始化">
+      <created>1605517405814</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605517405814</updated>
+    </task>
+    <task id="LOCAL-00012" summary="初始化">
+      <created>1605517762566</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605517762566</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1605505835929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605505835929" />
+    <state x="779" y="210" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1605513251357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="779" y="210" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605513251357" />
+    <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1605508713145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605508713145" />
+    <state x="440" y="94" key="#项目结构" timestamp="1605575679764">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1605575679764" />
+    <state x="649" y="86" key="CommitChangelistDialog2" timestamp="1605517760781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="649" y="86" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605517760781" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1605513743076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605513743076" />
+    <state x="444" y="482" key="FileChooserDialogImpl" timestamp="1605575428457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="444" y="482" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605575428457" />
+    <state width="1877" height="190" key="GridCell.Tab.0.bottom" timestamp="1605517738400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605517738400" />
+    <state width="1877" height="190" key="GridCell.Tab.0.center" timestamp="1605517738400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605517738400" />
+    <state width="1877" height="190" key="GridCell.Tab.0.left" timestamp="1605517738400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605517738400" />
+    <state width="1877" height="190" key="GridCell.Tab.0.right" timestamp="1605517738400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605517738400" />
+    <state width="1877" height="190" key="GridCell.Tab.1.bottom" timestamp="1605517738218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605517738218" />
+    <state width="1877" height="190" key="GridCell.Tab.1.center" timestamp="1605517738218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605517738218" />
+    <state width="1877" height="190" key="GridCell.Tab.1.left" timestamp="1605517738218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605517738218" />
+    <state width="1877" height="190" key="GridCell.Tab.1.right" timestamp="1605517738218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605517738218" />
+    <state width="1877" height="190" key="GridCell.Tab.2.bottom" timestamp="1605517738218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605517738218" />
+    <state width="1877" height="190" key="GridCell.Tab.2.center" timestamp="1605517738218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605517738218" />
+    <state width="1877" height="190" key="GridCell.Tab.2.left" timestamp="1605517738218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605517738218" />
+    <state width="1877" height="190" key="GridCell.Tab.2.right" timestamp="1605517738218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605517738218" />
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1605254352427">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605254352427" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1605246413955">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605246413955" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1605517426079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605517426078" />
+    <state x="461" y="248" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605513324048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="248" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1605513324048" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1605254397819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605254397819" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605513118640">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605513118640" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/springboot/tools/utils/SecurityUtils.java</url>
+          <line>57</line>
+          <properties class="com.springboot.tools.utils.SecurityUtils" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+        <breakpoint type="DlvErrorBreakpoint" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

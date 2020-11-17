@@ -1,0 +1,23 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /
+  tomcat:
+    uri-encoding: utf-8
+spring:
+  profiles:
+    active: dev
+  #控制台日志输出取消颜色
+  output:
+    ansi:
+      enabled: always
+  application:
+    name: @artifactId@
+#开启actuator
+management:
+  endpoints:
+    web:
+      exposure.include: "*"
+  endpoint:
+    health:
+      show-details: always
