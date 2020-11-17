@@ -6,12 +6,18 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+/**
+ * 验证码
+ * @author swen
+ */
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-@ApiModel(value="登陆成功返回", description="登陆成功返回")
-public class LoginVo {
+@ApiModel(value="验证码返回", description="验证码返回")
+public class CaptchaImageVo {
 
-    private String token;
+    private String uuid;
+
+    private String img;
 }

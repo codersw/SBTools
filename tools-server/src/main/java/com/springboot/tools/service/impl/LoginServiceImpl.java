@@ -1,11 +1,12 @@
 package com.springboot.tools.service.impl;
 
+import com.springboot.tools.config.RedisCache;
+import com.springboot.tools.constant.Constants;
 import com.springboot.tools.entity.co.LoginCo;
 import com.springboot.tools.entity.common.CurrentUser;
 import com.springboot.tools.exception.ToolsException;
 import com.springboot.tools.service.ILoginService;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.BadCredentialsException;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
@@ -34,8 +35,17 @@ public class LoginServiceImpl implements ILoginService {
     @Resource
     private AuthenticationManager authenticationManager;
 
+    @Resource
+    private RedisCache redisCache;
+
     @Override
     public String login(LoginCo loginCo) {
+        String verifyKey = Constants.CAPTCHA_CODE_KEY + loginCo.getUuid();
+        String captcha = redisCache.getCacheObject(verifyKey);
+        redisCache.deleteObject(verifyKey);
+        if (!loginCo.getCode().equalsIgnoreCase(captcha)) {
+            throw new ToolsException("验证码不正确");
+        }
         // 用户验证
         Authentication authentication;
         try {

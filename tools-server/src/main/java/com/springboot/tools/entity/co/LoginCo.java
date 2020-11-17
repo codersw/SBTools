@@ -19,4 +19,10 @@ public class LoginCo {
 
     @ApiModelProperty(value = "密码", example = "密码")
     private String password;
+
+    @ApiModelProperty(value = "验证码", example = "验证码")
+    private String code;
+
+    @ApiModelProperty(value = "唯一标识", example = "唯一标识")
+    private String uuid;
 }

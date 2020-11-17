@@ -71,4 +71,7 @@ token:
   # 令牌有效期（默认30分钟）
   expireTime: 30
 web:
-  anon-url: /actuator/**,/swagger-ui.html,/webjars/**,/swagger-resources/**,/v2/api-docs/**,/,/csrf,/login,/logout
+  anon-url: /actuator/**,/swagger-ui.html,/webjars/**,/swagger-resources/**,/v2/api-docs/**,/,/csrf,/login,/logout,/captchaImage
+captcha:
+  # 验证码类型 math 数组计算 char 字符验证
+  type: math
