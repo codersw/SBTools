@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="215371b6-5c9b-4d2e-a14c-716186f1cf14" name="默认的" comment="" />
+    <list default="true" id="215371b6-5c9b-4d2e-a14c-716186f1cf14" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools-server/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools-server/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools-server/mvnw.cmd" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,12 +75,9 @@
     <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\SBTools\src\main\java\com\springboot\tools\utils" />
-      <recent name="D:\SBTools\src\main\java\com\springboot\tools\handler" />
-      <recent name="D:\SBTools\src\main\java\com\springboot\tools\controller" />
-      <recent name="D:\SBTools\src\main\resources" />
-      <recent name="D:\SBTools\src\main\java\com\springboot\tools" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SBtools" />
+      <recent name="D:\SBTools\src\main\resources\generator" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.springboot.tools.config" />
@@ -82,8 +86,12 @@
       <recent name="com.springboot.tools.enums" />
       <recent name="com.springboot.tools.utils" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\SBTools\src\main\resources\generator" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SBTools\src\main\java\com\springboot\tools\utils" />
+      <recent name="D:\SBTools\src\main\java\com\springboot\tools\handler" />
+      <recent name="D:\SBTools\src\main\java\com\springboot\tools\controller" />
+      <recent name="D:\SBTools\src\main\resources" />
+      <recent name="D:\SBTools\src\main\java\com\springboot\tools" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.ToolsApplication">
@@ -100,13 +108,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -139,7 +149,8 @@
       <workItem from="1605493789734" duration="448000" />
       <workItem from="1605495181016" duration="20583000" />
       <workItem from="1605574499943" duration="930000" />
-      <workItem from="1605575448623" duration="531000" />
+      <workItem from="1605575448623" duration="582000" />
+      <workItem from="1605576054940" duration="114000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1605508366255</created>
