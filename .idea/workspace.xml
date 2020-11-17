@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="215371b6-5c9b-4d2e-a14c-716186f1cf14" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools-server/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools-server/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools-server/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools-server/mvnw.cmd" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +44,7 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="GO_FMT" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -65,6 +61,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="项目" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -94,20 +91,7 @@
       <recent name="D:\SBTools\src\main\java\com\springboot\tools" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.ToolsApplication">
-    <configuration name="SecurityUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.springboot.tools.utils.SecurityUtils" />
-      <module name="SBTools" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.springboot.tools.utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="npm.dev">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -122,17 +106,29 @@
       </method>
     </configuration>
     <configuration name="ToolsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="SBTools" />
+      <module name="tools-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboot.tools.ToolsApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="应用程序.SecurityUtils" />
-      </list>
-    </recent_temporary>
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/tools-ui/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.dev" />
+      <item itemvalue="Spring Boot.ToolsApplication" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -150,7 +146,7 @@
       <workItem from="1605495181016" duration="20583000" />
       <workItem from="1605574499943" duration="930000" />
       <workItem from="1605575448623" duration="582000" />
-      <workItem from="1605576054940" duration="114000" />
+      <workItem from="1605576054940" duration="1354000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1605508366255</created>
@@ -236,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605517762566</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="初始化">
+      <created>1605576381606</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605576381606</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,10 +250,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="初始化" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="174" width="1092" height="791" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605577066413">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" width="1092" height="791" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605577066413" />
     <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1605505835929">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605505835929" />
+    <state x="689" y="321" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605576999410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="321" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605576999410" />
     <state x="779" y="210" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1605513251357">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -263,10 +274,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1605575679764" />
-    <state x="649" y="86" key="CommitChangelistDialog2" timestamp="1605517760781">
+    <state x="649" y="86" key="CommitChangelistDialog2" timestamp="1605576380607">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="649" y="86" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605517760781" />
+    <state x="649" y="86" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605576380607" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1605513743076">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -275,22 +286,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="444" y="482" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605575428457" />
-    <state width="1877" height="190" key="GridCell.Tab.0.bottom" timestamp="1605517738400">
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom" timestamp="1605577071303">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="190" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605517738400" />
-    <state width="1877" height="190" key="GridCell.Tab.0.center" timestamp="1605517738400">
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605577071303" />
+    <state width="1877" height="2" key="GridCell.Tab.0.center" timestamp="1605577071303">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="190" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605517738400" />
-    <state width="1877" height="190" key="GridCell.Tab.0.left" timestamp="1605517738400">
+    <state width="1877" height="2" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605577071303" />
+    <state width="1877" height="2" key="GridCell.Tab.0.left" timestamp="1605577071303">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="190" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605517738400" />
-    <state width="1877" height="190" key="GridCell.Tab.0.right" timestamp="1605517738400">
+    <state width="1877" height="2" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605577071303" />
+    <state width="1877" height="2" key="GridCell.Tab.0.right" timestamp="1605577071303">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="190" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605517738400" />
+    <state width="1877" height="2" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605577071303" />
     <state width="1877" height="190" key="GridCell.Tab.1.bottom" timestamp="1605517738218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -331,10 +342,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605246413955" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1605517426079">
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1605576445500">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605517426078" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605576445500" />
     <state x="461" y="248" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605513324048">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
